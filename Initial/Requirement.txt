@@ -1,0 +1,48 @@
+Frontend - Angular
+Backend - Node as server and Mongo as Database
+
+
+Add the design template in Initial folder
+
+Requirement
+
+Modules
+	1. User Group - Add/ Edit , Delete of user froup
+		Fields
+			User Group ID
+			Group Name
+			Permission IDs
+			Active
+
+	2. User
+		- Add/ Edit , Delete of user
+		Fields
+			User ID	
+			First Name
+			Last Name
+			User Name
+			Password
+			email
+			User Group ID
+			Active
+	3. Page
+		- Add/ Edit , Delete of Page
+		Fields
+			Page ID
+			Page Tilte
+			Page Sub Title
+			Page sub section content
+			Page main section Content
+			RouteLink
+			Parent Page
+			Image
+			Show Page
+			Created User ID
+	
+	4. Settings
+		Permissions
+			- Add/ Edit , Delete of Permissions
+				Fields
+					Permission ID
+					Permission
+					Active	
